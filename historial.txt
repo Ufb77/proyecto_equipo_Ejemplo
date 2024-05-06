@@ -1,0 +1,36 @@
+commit 23bbb36d402a7ccfdafba5f1f38ed6b5c1624871
+Author: ufb77 <jafmgdam@gmail.com>
+Date:   Mon May 6 09:59:20 2024 +0200
+
+    incluyendo capitulos
+
+commit 3a6e61127a9b7305778440faa75ba518ebd03752
+Merge: 88e60d7 1ac00b5
+Author: ufb77 <jafmgdam@gmail.com>
+Date:   Mon May 6 09:57:50 2024 +0200
+
+    Merge branch 'pruebas'
+
+commit 1ac00b5253ec48502936616856f62d2374da2079
+Author: ufb77 <jafmgdam@gmail.com>
+Date:   Mon May 6 09:55:14 2024 +0200
+
+    Add pagina2.html
+
+commit 88e60d78e3799ac06990ce956ce7f10a2e538f70
+Author: ufb77 <jafmgdam@gmail.com>
+Date:   Mon May 6 09:53:04 2024 +0200
+
+    añadiendo pagina 1.html
+
+commit c79d876395c6138e16d8e4c22b5bd799b87f0a49
+Author: ufb77 <jafmgdam@gmail.com>
+Date:   Mon May 6 09:32:32 2024 +0200
+
+    segundo commit
+
+commit 815b51332e8d4f01ea88a0d36b6f381d9ccd6417
+Author: ufb77 <jafmgdam@gmail.com>
+Date:   Mon May 6 09:28:54 2024 +0200
+
+    Primer commit
